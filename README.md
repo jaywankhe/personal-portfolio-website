@@ -76,7 +76,7 @@ Code:- HTML:- <!DOCTYPE html>
 </body>
 </html>
 
-CSS:- * {
+CSS:- {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
